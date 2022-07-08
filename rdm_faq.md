@@ -1,10 +1,3 @@
----
-title: RDM FAQ
-layout: template
-filename: rdm_faq.md
---- 
-
-
 # General
 
 ## Where can I go with questions about Research Data Management?
