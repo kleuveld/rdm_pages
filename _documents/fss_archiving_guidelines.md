@@ -1,0 +1,21 @@
+**FSS Archiving Guidelines**
+
+The following materials should be archived, within one month after the publication date:
+
+- A copy of the publication that uses the data.
+- Any documentation that can reasonably be deemed necessary in order to verify the research's findings. The precise documentation depends on the methods used, but examples include: study design documents, interview guides, questionnaires, surveys, and topic lists. If these materials are not in English, both the originals and English translations should be provided.
+- Raw, unedited data files providing the most direct registration of the behaviour or reactions of test subjects/respondents. If the raw data files have been accessibly stored in an external archive (such as storage facilities at DANS), or if the data cannot be archived on VU servers (for example due to IP restrictions) making reference to the location of the files will suffice. The VU researcher must ensure that such raw data will be available for verification purposes. Such externally archived raw data may include primary or secondary data. Raw data may not be changed once they have been made digitally available.
+- A description of the procedures to transform the raw data into analyzed data. This could be computer code (for example Atlas.ti, SPSS/JASP syntax file, MATLAB analysis scripts, R code) or a description of the steps taken in the qualitative analysis of primary research data, i.e. themes, domains, taxonomies, components.
+- The data files (either raw or processed) that were eventually analysed when preparing the article (e.g. an SPSS data file after transforming variables, after applying selections, etc.). This is not necessary if the raw data file was directly analysed, or if the analyzed data can be constructed without excessive effort from the raw data  (for example by running a script). 
+- If applicable, computer code (for example syntax files from SPSS/JASP, Atlas.ti, Matlab, R; syntaxes of tailored software) describing the steps taken to process the analysis data into results in the manuscript, including brief explanations of the steps in English.
+-The data management plan.
+- A readme file (metadata) describing which documents and files can be found where and how they should be interpreted. The readme file must be sufficiently clear, so that a relevant fellow researcher can verify the results discussed in the publication. The readme file must also contain the following information:  
+	- Name of the person who stored the documents or files 
+	- Division of roles among authors, indicating at least who analysed the data 
+	- Date on which the manuscript was accepted, including reference 
+	- Date/period of data collection 
+	- Names of people who collected the data 
+	- If relevant: addresses of field locations where data were collected and contact persons (if any) 
+	- Whether the data is made open or not and if not, a valid reason for not opening up the data
+- Documents received from the Research Ethics Review: at least the result of the self-check, and if applicable result from a full review.
+- Information about the informed consent procedure, such as a privacy statement, or a blank informed consent form.
