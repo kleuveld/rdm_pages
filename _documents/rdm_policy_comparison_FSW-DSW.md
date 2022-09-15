@@ -692,40 +692,40 @@ is no reason to deviate.</p>
 </tr>
 </tbody>
 </table>
-<section class="footnotes footnotes-end-of-document"
+<section id="footnotes" class="footnotes footnotes-end-of-document"
 role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>For specific regulation regarding the
-ethical, legal and social implications of health-related research,
-researchers can consult the ELSI Servicedesk<a href="#fnref1"
-class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p>Originally, around 2017 and 2018,
-this document was the result of the efforts of a committee established
-to this end by the DSW, consisting of Marc van Veldhoven (UvT, later
-replaced by Jelte Wicherts), Rob Eisinga (RU), Rosanne Janssen (UM) and
-Peter van der Heijden (UU). This latest version has been edited by the
-DSW committee Scientific Integrity, data storage and reproducibility,
-consisting of Peter van der Heijden (UU), Sander Nieuwenhuis (UL), Jelte
-Wicherts (UvT) and Esther Hoorn (RUG), using suggestions of a group of
+<li id="fn1"><p>For specific regulation regarding the ethical, legal and
+social implications of health-related research, researchers can consult
+the ELSI Servicedesk<a href="#fnref1" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Originally, around 2017 and 2018, this document was the
+result of the efforts of a committee established to this end by the DSW,
+consisting of Marc van Veldhoven (UvT, later replaced by Jelte
+Wicherts), Rob Eisinga (RU), Rosanne Janssen (UM) and Peter van der
+Heijden (UU). This latest version has been edited by the DSW committee
+Scientific Integrity, data storage and reproducibility, consisting of
+Peter van der Heijden (UU), Sander Nieuwenhuis (UL), Jelte Wicherts
+(UvT) and Esther Hoorn (RUG), using suggestions of a group of
 qualitative researchers of the UL (Wolfgang Kaltenbrunner, Marianne
 Maeckelbergh, Joop van Holsteijn and others).<a href="#fnref2"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3" role="doc-endnote"><p>Netherlands Code of Conduct for
-Research Integrity, Standards for good research practices.
-https://doi.org/10.17026/dans- 2cj-nvwu<a href="#fnref3"
+<li id="fn3"><p>Netherlands Code of Conduct for Research Integrity,
+Standards for good research practices. https://doi.org/10.17026/dans-
+2cj-nvwu<a href="#fnref3" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Netherlands Code of Conduct for Research Integrity,
+Standards for good research practices, 3.2 Design, 12 B.
+<u>https://doi.org/10.17026/dans-2cj-nvwu</u><a href="#fnref4"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4" role="doc-endnote"><p>Netherlands Code of Conduct for
-Research Integrity, Standards for good research practices, 3.2 Design,
-12 B. <u>https://doi.org/10.17026/dans-2cj-nvwu</u><a href="#fnref4"
-class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5"
-role="doc-endnote"><p><u>https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-universiteiten-en-universitair-medische-centra-2020</u>
+<li
+id="fn5"><p><u>https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-universiteiten-en-universitair-medische-centra-2020</u>
 [accessed March 18, 2021].<a href="#fnref5" class="footnote-back"
 role="doc-backlink">↩︎</a></p></li>
-<li id="fn6" role="doc-endnote"><p>Each individual section of a PhD
-thesis (or the thesis as a whole) officially counts as a publication,
-even if it has not been published as such in a journal.<a href="#fnref6"
-class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Each individual section of a PhD thesis (or the thesis
+as a whole) officially counts as a publication, even if it has not been
+published as such in a journal.<a href="#fnref6" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>

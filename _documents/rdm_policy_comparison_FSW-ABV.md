@@ -26,8 +26,8 @@ confidential access. Anonymizing ethnographic research materials is
 often not a workable solution, as it is not only</p>
 <p>overly time-consuming but above all removes so much detail, that the
 material becomes virtually meaningless</p></th>
-<th>FSS endorses this: protection of respondents’ privacy is a valid
-reason not to grant open access to data.</th>
+<th>FSS fully endorses this: protection of respondents’ privacy is a
+valid reason not to grant open access to data.</th>
 </tr>
 </thead>
 <tbody>
@@ -46,9 +46,16 @@ personal knowledge</p>
 <p>This character of anthropology as a science dealing with research
 materials that can often not be reduced to ‘data’ has serious ethical
 consequences, especially regarding the following.</p></td>
-<td>FSS considers materials such as fieldnotes “data”, while recognizing
-that the meaning of this data is highly dependent on the context of the
-original research.</td>
+<td><p>The definition of data as used by the ABV is slightly different
+than that used by most of the policies that the FSS RDM guidelines are
+based on. In most definitions field notes would fall under the category
+“data”.</p>
+<p>However, for purposes of the FSS RDM guidelines, it is not necessary
+for data (and thus field notes) to be published or be interpreted by
+others. The data should be archived as a record of the steps the
+researcher took to arrive at the conclusions in publications. Such
+archives will only be accessed in case of doubts regarding academic
+integrity.</p></td>
 </tr>
 <tr class="even">
 <td>Anonymity and informed consent: Our default position is that we do
@@ -65,9 +72,12 @@ oral forms of consent,<br />
 since written consent forms may impact negatively on interlocutors’
 privacy, safety, and<br />
 possession of knowledge.</td>
-<td>This may be problematic with respect to GDPR: there must be
-demonstrable consent. This does not need to be written, but there must
-be a way that it can be demonstrated a participant consented.</td>
+<td><p>This may be problematic with respect to GDPR: there must be
+demonstrable consent. This does not need to be in the form of an
+informed consent sheet, or even written in some other way, but there
+must be a way that it can be demonstrated a participant consented.</p>
+<p>In practice, researchers can contact the Privacy Champion to find
+what works.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Doing no harm:</strong> The epistemological need for
@@ -91,7 +101,7 @@ funders or employers as well as conditions imposed by people studied. In
 contrast, the extent to which it is desirable to disclose information
 about personal backgrounds, perspectives and positions can only be
 judged by the researcher and not be imposed by others.</p></td>
-<td>This goes beyond the scope of the FSS RDM policy.</td>
+<td>This goes beyond the scope of the FSS RDM guidelines.</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Legal protection</strong>: We do not enjoy a legal right
@@ -105,15 +115,12 @@ processing of their data. Especially when we work on sensitive subjects,
 our research may be severely hindered and our interlocutors be put at
 risk, when we are not able to claim protection from forced disclosure in
 court.</p></td>
-<td>This goes beyond the scope of the FSS RDM policy.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
+<td><p>This really concerns a legal matter that is above the level of
+the Faculty, and so can’t really be incorporated in the RDM
+guidelines.</p>
+<p>FSS should note that this risk is even larger for data stored in the
+US, so researchers should take care when transferring data
+there.</p></td>
 </tr>
 </tbody>
 </table>
