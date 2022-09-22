@@ -70,7 +70,7 @@ differently. The reasoning for this can be summarized as follows</p>
 <ol type="1">
 <li><p>While there is difference in the ease of de-identification of
 quantitative vs qualitative data, this difference is not relevant: it is
-still very difficult to fully anonymize quantitative data, and it is
+often still difficult to fully anonymize quantitative data, and it is
 possible to pseudonymize qualitative data.</p></li>
 <li><p>Even if pseudonymization of qualitative data is impossible,
 non-pseudonymized data can still be archived following our
@@ -81,10 +81,10 @@ problematic to put into practice.</p></li>
 <li><p>A distinction would further divide social sciences and complicate
 efforts to promote inter-disciplinarity.</p></li>
 </ol>
-<p>Differential handling of data should therefore not be based on the
-data being quantitative or qualitative, but on the specific nature of
-the data: for example the privacy risks posed by the data, the IP rights
-over the data, whether the data is available elsewhere, etc.</p></td>
+<p>FSS therefore does not differentiate based on qualitative or
+quantitative, but on the specific nature of the data: for example the
+privacy risks posed by the data, the IP rights over the data, whether
+the data is available elsewhere, etc.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1.1 Purpose of these guidelines</strong></p>
@@ -174,12 +174,13 @@ identification trivial, may be of crucial importance to the research.
 De-identification will damage the data set.</p></li>
 </ul>
 <p>FSS therefore takes a pragmatic stand with respect to
-de-identification. It is considered one of many measures available to
+de-identification. It is considered as one of many measures available to
 the researcher to secure their data, and it is up to the researcher to
 decide which measures appropriately secure their data.</p>
 <p>Furthermore, FSS clarifies that given the definition of personal data
-give, almost all data used in the faculty (including pseudonymized data)
-is considered personal data.</p></td>
+(per DSW guidelines as well as GDPR), almost all data used in the
+faculty (including pseudonymized data) is considered personal
+data.</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -194,10 +195,11 @@ transparency of qualitative and quantitative empirical research, all
 information that is needed to be able to assess the results must be
 archived (in English). This information is stored in a ‘publication
 package’.</strong></p></td>
-<td>FSS policy doesn’t mention the term “publication package”. The term
-may lead to confusion: first, a researcher may think that the package
-itself must be published. Second, they may think that all elements need
-to be archived together. However, it is okay to have some items in a
+<td>The FSS RDM guidelines don’t mention the term “publication package”.
+The term may lead to confusion: first, a researcher may think that the
+package itself must be published. Second, they may think that all
+elements need to be archived together. However, data may be archived in
+a restricted-access repository, and it is okay to have some items in a
 public repository, while others are in a restricted archive, as long as
 the various components link to each other.</td>
 </tr>
@@ -489,7 +491,7 @@ responsible.</strong></td>
 <td><strong>Adherence to the guideline will be discussed in performance
 and appraisal interviews. Formal final responsibility lies with the
 dean.</strong></td>
-<td>In This is in FSS guidelines.</td>
+<td>This is in FSS guidelines.</td>
 </tr>
 <tr class="even">
 <td><p><strong>2.4 Who has access to the publication
@@ -554,8 +556,8 @@ quality assessment. Also included here are the (legal) advice of ethical
 committees and evaluations and further agreements with research
 partners.</strong></p>
 </blockquote></td>
-<td>The FSS guidelines say to archive for 10 years, with the possibility
-to deviate if motivated in the DMP.</td>
+<td>Following VU policy, the FSS guidelines say to archive for 10 years,
+with the possibility to deviate if motivated in the DMP.</td>
 </tr>
 <tr class="even">
 <td><p><strong>3.2 Data minimization and retention</strong></p>
