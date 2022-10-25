@@ -4,7 +4,7 @@
 Either the Faculty Data Steward (Koen Leuveld, k.leuveld@vu.nl) or the Library’s RDM Support Desk: rdm@vu.nl. The Data Steward can help you best with questions that are specific to the work we do at the faculty, and with questions about specific grants; the RDM Support Desk is best equipped to deal with questions that could be asked by any VU researcher, for example about storage or archiving options. But both work together, so you can’t ask the wrong person.
 
 ## Where can I find more information about Research Data Management?
-We maintain a number of resources you can consult. At the VU level, the library maintains a series of [Libguides][libguide] explaining various topics related to the management of your data. At the faculty level, the data steward maintains [a page giving advice that is specific to researchers in Social Sciences][fss-rdm-info], including links to content you can use in proposals.
+We maintain a number of resources you can consult. At the VU level, there is the [Research Data Support Portal][rds-portal] which contains links to anything you might want to know about RDM, and the library maintains a series of [Libguides][libguide] explaining various topics related to the management of your data. At the faculty level, the data steward maintains [a page giving advice that is specific to researchers in Social Sciences][fss-rdm-info], including links to content you can use in proposals.
 
 ## I don’t have data. I only have observations.
 As RDM experts, we would say that observations are also a type of data. But that doesn't really matter: in any case, you want to protect your observations, make backups of your observations and make sure that they are archived securely or shared with the world so that you can demonstrate you did your research well. That is, many important aspects of Research Data Management apply whether you call your observations data or not.
@@ -63,7 +63,7 @@ Qualitative data sets are usually so rich that all observations are unique, and 
 That's great! A good place to start is the R package [sdcMicro][sdcmicro]. Your data steward may be able to help out when using it. Alternatively, there is [Amnesia][amnesia]. Note that anonymization means modifying your data, so if you want to anonymize data for replication purposes, not all analyses that you did with your unanonymized data can be fully replicated using anonymized data. This is acceptable, if explained properly in your paper (e.g. in a footnote).
 
 ## I don’t have informed consent forms for my research. Is that bad?
-It’s not necessarily bad, because written informed consent is only required by law in cases of health research (where WMO applies). You can have participants give informed consent orally if you’re not doing WMO research, but make sure you record it and store it safely. You can ask advice from your data steward or privacy champion if you will ask oral informed consent. There are also other legal grounds (than informed consent) on which you can do research.  However, if you should have asked informed consent, but did not do so, that could be bad and we recommend that you contact your privacy champion as soon as possible.
+It’s not necessarily bad, because written informed consent is only required by law in cases of health research (where WMO applies). You can have participants give informed consent orally if you’re not doing WMO research, but make sure you record it and store it safely. You can ask advice from your data steward or privacy champion if you will ask oral informed consent. There are also other legal grounds (than informed consent) on which you can do research. However, if you should have asked informed consent, but did not do so, that could be bad and we recommend that you contact your privacy champion as soon as possible.
 
 # Sharing Data and Notes
 
@@ -94,7 +94,13 @@ The Wet Openbaarheid van Bestuur (WOB) only applies to public entities, so not t
 I’m afraid that other researchers will misuse my data. How can I prevent that from happening?
 It depends on what you mean by “misuse”. If this concerns using your data commercially, you can add a license to your data that specifies non-commercial use only. The same goes for data that may not be remixed. If, however, the misuse can occur simply by the nature of your data, then we recommend that you speak to a data steward and/or a representative of the ethical review committee to discuss your doubts and your options.
 
-# Data Management Plans and FAIR Data
+# Data Management Plans (DMPs) and FAIR Data
+
+## How can I start writing a Data Management Plan?
+You can log into [DMPOnline][dmponline] with your VU credentials to start writing a DMP. It has templates of most funders which are kept up to date by the university library. If you need any help (for example with the technical terms used in many DMP templates), feel free to contact the faculty data steward.
+
+## Where can I find examples of Data Management Plans?
+[DMPOnline][dmponline] has a large number of Data Management Plans from which you can get inspiration for your own DMP.
 
 ## I never created a Data Management Plan. Is that bad?
 There are some situations in which writing a DMP is mandatory. For example, if you have received a grant, you almost always have to write a DMP. The Faculty of Social Sciences also requires you to write a DMP for any new research project you start. And DMPs are sometimes necessary components of various requests, such as an ethics application (for a full procedure) and a storage application (in some cases). And obviously, if you are following the course “Writing a DMP”, you have to write a DMP to complete the course.
@@ -124,6 +130,9 @@ This is not a problem. Data needs to be Accessible. This means that there is a w
 
 [libguide]: https://libguides.vu.nl/rdm
 [fss-rdm-info]: https://vu.nl/en/employee/social-sciences-getting-started/data-management-fss
+[rds-portal]: https://vu.nl/nl/medewerker/research-data-support
+
+
 
 [sdcmicro]: https://sdcpractice.readthedocs.io/en/latest/sdcMicro.html
 [amnesia]: https://amnesia.openaire.eu/
