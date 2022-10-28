@@ -1,7 +1,7 @@
 ---
 title: VU FSSW guidelines for data management
-subtitle: Second Draft
-date: 22-09-2022
+subtitle: Third Draft
+date: 28-10-2022
 ---
 
 <!---
@@ -10,13 +10,9 @@ compile with Pandoc
 File history can be found in the git repo: https://github.com/kleuveld/rdm_pages
 -->
 
-**Note on this draft version**: This is a draft version intended to collect feedback, which can be sent to k.leuveld@vu.nl. Currently all documents are hosted on [GitHub][rdm-pages], which may cause some layout issues in some of the linked documents (e.g. the policy comparisons); once finalized, all documents will be hosted on the VU website removing these problems.
+**Note on this draft version**: This is a draft version intended to collect feedback, which can be sent to k.leuveld@vu.nl. Currently all documents are hosted on [GitHub][rdm-pages], which may cause layout issues in some of the linked documents (e.g. the policy comparisons); once finalized, all documents will be hosted on the VU website removing these problems.
 
 # Introduction
-
-<!---
-	IK: Suggestie om deze ‘intro’ anders te starten/ te benoemen. Contextueel kader toegevoegd. Guidelines zijn ingebed in een bredere visie op integriteit. Zo kort mogelijk omschreven.
--->
 
 As a faculty committed to excellence in the quality of the research our staff and students undertake, it is essential to have guidelines on good practice in Research Data Management (RDM) as part of our framework to support the integrity of our research. These FSS guidelines serve both as a means of developing and supporting a culture of good practice in data management and demonstrating that we are committed to a culture and environment where high standards are encouraged and expected.
 
@@ -27,6 +23,11 @@ The goal of these guidelines is not to add to the number of guidelines, regulati
 -->
 <!---
 	Seda had nog wat interessants gevonden
+-->
+<!--
+	EB: eScience Center: FAIR principles for research software
+
+	https://www.esciencecenter.nl/news/fair-principles-for-research-software-released/
 -->
 
 - [General Data Protection Regulation (GDPR)][gdpr] (GDPR is too large to include a point-by-point comparison here.)
@@ -57,34 +58,41 @@ These guidelines apply to all faculty staff members who conduct research in the 
 - Researchers must follow the [ethics review procedure][rerc] of the Research Ethics Review Committee (RERC).
 - Researchers must write a Data Management plan (DMP), using a template of their funder or the template provided by the VU library[^templates]. The researcher makes sure that the DMP is stored in such a way that they can easily provide an up-to-date version to their department head at any moment.
 - Researchers shall ensure that all planned activities with personal data comply with GDPR. In particular:
-	- They must take appropriate technical and organization measures to secure data. Because of the wide variety of data used in the faculty, there is not one answer as to what measures are appropriate. Researchers will discuss the measures they take with colleagues, department heads, with the [RDM support desk][rdmsupport] and/or the data steward.
+	- They must take appropriate technical and organization measures to secure data. Because of the wide variety of data used in the faculty, there is not one answer as to what measures are appropriate. Researchers will discuss the measures they take with colleagues, department heads, with the faculty data steward, privacy champion and/or the [RDM support desk][rdmsupport].
 	- They should ensure that all personal data is processed with full consent of all data subjects. If consent cannot be obtained, the researcher ensures that there is another legal ground for processing the data. The faculty data steward can assist with this.
 	- They shall ensure that if personal data is handled by third parties, the proper agreements are in place to do this securely, for example Data Processing Agreements. The faculty data steward can assist with this.
-	- They shall ensure that all data processing activities (collection, analysis, publishing, archiving, etc.) are entered in the VU's central data processing registry. Currently, DMPs created using the VU template in [DMP Online][dmponline] are linked automatically to this registry, meaning the researhcer does not need to take additional action for this.
-- Contracts and agreements relating to the commissioning, funding and conduct of research, including data sharing, intellectual property rights, collaboration and non-discosure agreements must all be processed through IXA-GO to ensure the safeguarding of (the autonomy of) your research. And only signed by those with the appropriate delegated authority to do so on behalf of the University. Most of the time this is Managing director of FSS in consultation with your head of dept.
+	- They shall ensure that all data processing activities (collection, analysis, publishing, archiving, etc.) are entered in the VU's central data processing registry. Currently, DMPs created using the VU template in [DMP Online][dmponline] are linked automatically to this registry, meaning the researcher does not need to take additional action for this.
+- Contracts and agreements relating to the commissioning, funding and conduct of research, including data sharing, intellectual property rights, collaboration and non-disclosure agreements must all be processed through IXA-GO to ensure the safeguarding of (the autonomy of) your research. And only signed by those with the appropriate delegated authority to do so on behalf of the University. Most of the time this is Managing director of FSS in consultation with your head of dept.
+
+<!--
+	Marcel Ras: Hoe doe je dat? Formulier, contactpagina opnemen
+-->
 
 [^templates]: Currently, all templates are available through [https://dmponline.vu.nl](https://dmponline.vu.nl)
 
 ## During
+<!-- 
+	Add link to example readme
+-->
 
 - Researchers shall keep their DMP up to date.
-- Researchers should ensure that their data is stored in such a way that it can later be archived in accordance with these guidelines without excessive effort. This includes:
-	- Ensuring data is well-organized;
+- Researchers should ensure that their data is stored in such a way that it can later be archived in accordance with section 3.3 of these guidelines without excessive effort. This includes:
+	- Ensuring data is well-organized (For more information, see the [FSS Guidelines on Data Organization][fss-guidelines-organization]);
 	- Data is stored in the same place as vital documentation. Depending on the discipline of the researcher this can include interviewer guides, questionnaires, topic lists, sampling information, power calculations, etc.
 	- Making sure the data is accompanied by a basic "Readme File" containing basic metadata such as an explanation of the purpose of the data, who is responsible for collecting it, and how the folder is organized, etc.
-- Researchers must ensure that data is stored reliably, traceably and securely store the research data throughout the research life cycle. The VU offers storage infrastructure that meet these requirements. If project data needs to be stored elsewhere (for example with project partners), researchers must ensure that the storage solution chosen meets these requirements. The data steward will help in this assessment.
+- Researchers must ensure that data is stored reliably, traceably and securely store the research data throughout the research life cycle. The VU offers storage infrastructure that meet these requirements (see the [storage finder][storage-finder]). If project data needs to be stored elsewhere (for example with project partners), researchers must ensure that the storage solution chosen meets these requirements. The data steward will help in this assessment.
 - Researchers must take appropriate technical and organizational measures to secure any personal data.
 	- They can store directly identifiable data (see definitions, below) separately from other data, either by storing it on a different server or device, or through encryption.
-	- They should not store directly identifiable data longer than needed. Note that it may be impossible to remove directly identifying data without editing the raw data, which would compromise data integrity and provenance. In such cases, the raw data (including) directly identifying information should be archived for 10 years. Researchers are expected to decide what data to destroy what data to keep, and shall provide reasoning for their choices in their DMP. 
+	- They should not store directly identifiable data longer than needed. Note that it may be impossible to remove directly identifying data without editing the raw data, which would compromise data integrity and provenance. In such cases, the directly identifiable data may be stored as long as long as the rest of the raw data. Researchers are expected to decide what data to destroy what data to keep, and shall provide reasoning for their choices in their DMP. 
 
 ## After
 
 ### Archiving and Registration
 Researchers must ensure that the underlying data for each published empirical study (article, volume, book chapter, PhD thesis chapter, Research Master’s thesis, consultable internal report, etc.) is archived according to the following:
 
-- **What**: all data than can be reasonably deemed necessary to verify the findings of the research. This includes the raw data (or a link to it, if secondary data was used), the data that was analysed and a description of all modifications to obtain the analysed data from the raw data (or the computer code used to perform these modifications) and full documentation of all steps involved in acquiring, processing and analysing the data. This should be organized in such a way that a colleague doing similar research could use the data without asking many questions. [Detailed guidelines on what to archive can be found here][fss-archiving].
-- **When**: the data will be archived no later than one month after the publication date, and be available until at least 10 years after the publication date. If this is not possible, a justification for deviating from this should be provided in the DMP.
-- **Where**: a secure and reliable location that is accessible for verification (see the section on verification below), and that provides a persistent identifier. The archiving options provided by the VU satisfy these criteria. If data needs to be archived elsewhere (for example with project partners), researchers must ensure that the storage solution chosen meets these requirements. FSS follows the ERC's approach "as open as possible, as closed as necessary". In practice this means that public data is preferable, but that personal data does not need to be published[^EUexceptions]. Should researchers want to publish such data, they should ensure that they meet all legal and ethical requirements to do so, consulting with the faculty data steward if needed. Public data must always be accompanied by a license and, in case of personal data, information about the informed consent procedure. The decision to publish data or not should be motivated in the DMP.
+- **What**: all data than can be reasonably deemed necessary to verify the findings of the research. This includes the raw data (or a link to it, if secondary data was used), the data that was analysed and a description of all modifications to obtain the analysed data from the raw data (or the computer code used to perform these modifications) and full documentation of all steps involved in acquiring, processing and analysing the data. This should be organized in such a way that a colleague doing similar research could use the data without asking many questions. [Detailed guidelines on what to archive can be found here][fss-guidelines-archiving].
+- **When**: the data must be archived no later than one month after the publication date, and be available until at least 10 years after the publication date. If this is not possible, a justification for deviating from this should be provided in the DMP.
+- **Where**: a secure and reliable location that is accessible for verification (see the section on verification below), and that provides a persistent identifier. The archiving options provided by the VU satisfy these criteria. If data needs to be archived elsewhere (for example with project partners), researchers must ensure that the storage solution chosen meets these requirements. FSS follows the ERC's approach "as open as possible, as closed as necessary". In practice this means that public data is preferable, but that personal data does not need to be published[^EUexceptions]. Should researchers want to publish such data, they should ensure that they meet all legal and ethical requirements to do so, consulting with the faculty data steward if needed. Public data must always be accompanied by a license and, in case of personal data, information about the informed consent procedure. The decision to publish data or not should be explained in the DMP.
 - **Who**: the first author of the publication is responsible for archiving the data. Second or later authors must know that the data have been carefully stored and how this has been arranged. This is particularly important if the first author does not work at FSS. For PhD candidates and research master’s students, the primary supervisor or the day-today supervisor respectively are responsible for archiving, but can delegate the work to the PhD candidate.
 
 Furthermore:
@@ -167,6 +175,12 @@ RERC 			Research Ethics Review Committee
 |                |                                                                  |
 +----------------+------------------------------------------------------------------+
 
+
+<!-- 
+	MR: add more resources herel such as the portal etc.
+-->
+
+
 <!---
 Links
 -->
@@ -181,8 +195,7 @@ VU Information
 [rerc]: https://vu.nl/en/employee/social-sciences-getting-started/research-ethics-review-fss
 [self-check]: https://vuletteren.eu.qualtrics.com/jfe/form/SV_6hCj2czIWzboW6V
 [rdmsupport]: mailto:RDM@vu.nl 
-[fss-archiving]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/fss_archiving_guidelines.md
-[dmponline]: https://dmponline.vu.nl
+
 
 <!---
 Rules, regulations and guidelines
@@ -208,4 +221,21 @@ Policy comparions
 [fss-coc]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-CoC.md
 [fss-fair]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-FAIR.md
 [fss-abv]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-ABV.md
-[fss-nsv]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-ABV.md
+[fss-nsv]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-NSV.md
+
+
+<!-- 
+	Specific advice/guidelines
+-->
+
+[fss-guidelines-archiving]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/fss_guidelines_archiving.md
+
+[fss-guidelines-organization]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/fss_guidelines_organization.md
+
+
+<!-- 
+	Tools
+-->
+	
+[dmponline]: https://dmponline.vu.nl
+[storage-finder]: https://vu.nl/en/research/storagefinder
