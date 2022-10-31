@@ -1,7 +1,7 @@
 # FSS Policy Comparison: Guideline for the archiving of academic research for faculties of behavioural and social sciences in the Netherlands
 
 Source:
-<https://vunl-my.sharepoint.com/:b:/g/personal/k_leuveld_vu_nl/UjMpC_8Yy5HsIkhFZ8SMecB9mET_yO0xgBh8rtbdjvw3g?e=R7Pawx>
+<https://vunl-my.sharepoint.com/:b:/g/personal/k_leuveld_vu_nl/EUjMpC_8Yy5HsIkhFZ8SMecB9mET_yO0xgBh8rtbdjvw3g?e=QIw5Qg>
 (public link will follow)
 
 <table>
@@ -69,9 +69,10 @@ disagrees that qualitative and quantitative data should be treated
 differently. The reasoning for this can be summarized as follows</p>
 <ol type="1">
 <li><p>While there is difference in the ease of de-identification of
-quantitative vs qualitative data, this difference is not relevant: it is
-often still difficult to fully anonymize quantitative data, and it is
-possible to pseudonymize qualitative data.</p></li>
+quantitative vs qualitative data, this difference is not such that it
+should have implications for the way data is handled: it is often still
+very difficult to fully anonymize quantitative data, and it is possible
+to pseudonymize qualitative data.</p></li>
 <li><p>Even if pseudonymization of qualitative data is impossible,
 non-pseudonymized data can still be archived following our
 guidelines.</p></li>
@@ -111,7 +112,7 @@ them to the letter.</strong></p>
 guidelines. The guidelines will be evaluated every two years, under the
 responsibility of the deans of the faculties of social and behavioural
 sciences (DSW).</strong></p></td>
-<td>FSS policy endorses this purpose.</td>
+<td>FSS endorses this purpose.</td>
 </tr>
 <tr class="odd">
 <td><p><strong>1.2 To whom do these guidelines apply?</strong></p>
@@ -132,7 +133,7 @@ related norms set out in the UNL Code of Conduct. The Netherlands Code
 of Conduct also requires researchers to make data as open as possible
 after publication or to document valid reasons for not sharing the
 data.</strong></p></td>
-<td>The FSS policy has adopted the exact wording here.</td>
+<td>FSS adopted this exact wording in the RDM guidelines.</td>
 </tr>
 <tr class="even">
 <td><blockquote>
@@ -162,25 +163,26 @@ address details, but also photographs, audio - and video material, and
 other identifying information. The de-identified raw data and the
 personal data together form the research data</strong></p></li>
 </ul></td>
-<td><p>FSS policy doesn’t include the advice to de-identify all raw
-data, for the following reasons:</p>
+<td><p>FSS guidelines do not use the word “de-indentificaion” as it can
+mean both anonymization and pseudonymization, which are related but have
+different implications for the data. It is assumed the DSW guidelines
+mean pseudonymization in this section, so that is the wording used in
+this comparison.</p>
+<p>FSS do not include the advice to pseudonymize all raw data, for the
+following reasons:</p>
 <ul>
-<li><p>Once data is de-identified, it may no longer be considered
+<li><p>Once data is pseudonymized, it may no longer be considered
 raw.</p></li>
-<li><p>De-identifying some forms of data (e.g. audiovisual data) is
-extremely complex and time consuming.</p></li>
+<li><p>Fully pseudonymizing some forms of data (e.g. audiovisual data)
+is extremely complex and time consuming.</p></li>
 <li><p>The identity of the data subject, or factors making indirect
 identification trivial, may be of crucial importance to the research.
-De-identification will damage the data set.</p></li>
+Pseudonymization will damage the data set in such cases.</p></li>
 </ul>
-<p>FSS therefore takes a pragmatic stand with respect to
-de-identification. It is considered as one of many measures available to
+<p>FSS therefore takes a pragmatic approach with respect to
+pseudonymization. It is considered as one of many measures available to
 the researcher to secure their data, and it is up to the researcher to
-decide which measures appropriately secure their data.</p>
-<p>Furthermore, FSS clarifies that given the definition of personal data
-(per DSW guidelines as well as GDPR), almost all data used in the
-faculty (including pseudonymized data) is considered personal
-data.</p></td>
+decide which measures appropriately secure their data.</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -198,10 +200,11 @@ package’.</strong></p></td>
 <td>The FSS RDM guidelines don’t mention the term “publication package”.
 The term may lead to confusion: first, a researcher may think that the
 package itself must be published. Second, they may think that all
-elements need to be archived together. However, data may be archived in
-a restricted-access repository, and it is okay to have some items in a
-public repository, while others are in a restricted archive, as long as
-the various components link to each other.</td>
+elements need to be archived together. However, neither is the case:
+data may be archived in a restricted-access repository, and it is
+acceptable to have some items in a public repository, while others are
+in a restricted archive, as long as the various components link to each
+other.</td>
 </tr>
 <tr class="odd">
 <td><p><strong>2.1 What must be stored in a publication
@@ -213,10 +216,15 @@ noting the existence of mixed methods that employ both qualitative and
 quantitative elements and should be handled according to their main
 focus.</strong></p>
 </blockquote></td>
-<td>As stated above, FSS does not make a distinction between qualitative
-data and quantitative data. Our guidelines follow those for quantitative
-data, with provision to make them applicable to other types of
-data.</td>
+<td><p>As stated above, FSS does not make a distinction between
+qualitative data and quantitative data.</p>
+<p>In the interest of brevity, specific instructions on what to archive
+are not included in the FSS RDM Guidelines. The focus is instead on the
+reasoning behind selecting data to archive: “all data than can be
+reasonably deemed necessary to verify the findings of the research.” A
+separate document with specific FSS Archiving Guidelines exists which is
+linked to in the general RDM guidelines. The FSS Archiving Guidelines
+closely follow the DSW guidelines for quantitative data.</p></td>
 </tr>
 <tr class="even">
 <td><p>2.1.1 Quantitative research</p>
@@ -226,20 +234,14 @@ empirical study (article, volume, book chapter, PhD thesis chapter,
 Research Master’s thesis, consultable internal report,
 etc.):</strong></p>
 </blockquote></td>
-<td><p>In the interest of brevity, specific instructions on what to
-archive are not included in the FSS RDM guidelines. The focus is instead
-on the reasoning behind selecting data to archive: “all data than can be
-reasonably deemed necessary to verify the findings of the research.”</p>
-<p>A separate document with specific archiving guidelines exists, and is
-linked to in the general RDM guidelines, which follows DSW guidelines
-closely, see below:</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
 <p><strong>1. The published (or accepted) manuscript or
 publication.</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines.</td>
+<td>Included in FSS Archiving Guidelines.</td>
 </tr>
 <tr class="even">
 <td><blockquote>
@@ -259,9 +261,9 @@ research. The materials must be available in the language in which the
 research was conducted. The publication package must be in
 English.</strong></p>
 </blockquote></td>
-<td><p>This has been reworded slightly, since replication is not
-possible for all research at the faculty. We therefore only talk about
-verification. Research that can be replicated, can also be verified.</p>
+<td><p>This has been reworded slightly in the FSS Archiving Guidelines,
+since replication is not possible for all research at the faculty. We
+therefore only talk about verification.</p>
 <p>The FSS guidelines require materials to be available in the original
 language, and in English.</p></td>
 </tr>
@@ -281,8 +283,8 @@ suffice. Such externally archived raw data may include primary or
 secondary data. Raw data may not be changed once they have been made
 digitally available.</strong></p>
 </blockquote></td>
-<td>FSS guidelines do not require the data to be de-identified, as
-outlined above, but otherwise this is included.</td>
+<td>FSS Archiving Guidelines do not require the data to be
+pseudonymized, as outlined above, but otherwise this is included.</td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -293,7 +295,7 @@ the steps in English, for example a brief description of the steps taken
 in the qualitative analysis of primary research data, i.e. themes,
 domains, taxonomies, components.</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines for applicable data.</td>
+<td>Included in FSS Archiving Guidelines for applicable data sets.</td>
 </tr>
 <tr class="even">
 <td><blockquote>
@@ -303,8 +305,10 @@ after transforming variables, after applying selections, etc.) The
 latter is not necessary if the raw data file was directly
 analysed.</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines. If this data can easily be constructed
-from the raw data, this is not needed.</td>
+<td>Included in FSS Archiving Guidelines, with an exception for cases
+where this data can easily be constructed from the raw data by running a
+script. In such cases providing the script and the raw data
+suffices.</td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -313,13 +317,13 @@ Atlas.ti, Matlab, R; syntaxes of tailored software) describing the steps
 taken to process the analysis data into results in the manuscript,
 including brief explanations of the steps in English.</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines for applicable data.</td>
+<td>Included in FSS Archiving Guidelines for applicable data.</td>
 </tr>
 <tr class="even">
 <td><blockquote>
 <p><strong>8. The data management plan</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines.</td>
+<td>Included in FSS Archiving Guidelines.</td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -343,8 +347,8 @@ the Ethics Review</strong></p>
 <p><strong>h. Whether the data is made open or not and if not, a valid
 reason for not opening up the data</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines. A VU template is expected to be
-available soon.</td>
+<td>Included in FSS Archiving Guidelines. A VU template is expected to
+be available soon.</td>
 </tr>
 <tr class="even">
 <td><blockquote>
@@ -353,15 +357,16 @@ researcher must be able to replicate the results discussed in the
 publication based on the components of the publication
 package.</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines, without the word “replicate”.</td>
+<td>Included in FSS Archiving Guidelines, without the word
+“replicate”.</td>
 </tr>
 <tr class="odd">
 <td><blockquote>
 <p><strong>10. Documents relating to the ethical approval or a reference
 to such documents.</strong></p>
 </blockquote></td>
-<td>Included in FSS guidelines, with wording specific to our ethics
-committee.</td>
+<td>Included in FSS Archiving Guidelines, with wording specific to our
+ethics committee.</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -591,10 +596,10 @@ responsible for monitoring the destruction of the research data on the
 required date. Official final responsibility lies with the
 dean.</strong></p></td>
 <td>The discussion by DSW ignores the fact that once data is
-de-identified, it is no longer raw data. The decision on what directly
-identifying data to keep and what not is thus extremely context
-dependent. FSS trusts its researchers to make the right call, and thus
-takes a pragmatic approach here, where researchers decide on a
+pseudonymized, it is no longer raw data. The decision on what directly
+identifying data to keep and what not is thus extremely
+context-dependent. FSS trusts its researchers to make the right call,
+and thus takes a pragmatic approach here, where researchers decide on a
 case-by-case basis what to keep, and keep a record of their decisions in
 their DMP.</td>
 </tr>
@@ -608,8 +613,8 @@ recommendation is to save the raw data in read-only format, before the
 data are made available for processing. Raw data stored in this way
 become fixed, which means that researchers will no longer be able to
 modify them deliberately or by accident.</strong></p></td>
-<td>The FSS guidelines require researchers to use VU infrastructure
-(such as Yoda) which satisfy this.</td>
+<td>The FSS guidelines recommend researchers use VU infrastructure (such
+as Yoda) which satisfy this.</td>
 </tr>
 <tr class="even">
 <td><strong>All data that can be traced back to individuals must be
