@@ -4,7 +4,7 @@ subtitle: First Draft
 date: 28-10-2022
 ---
 
-**Note on this first draft**: This first draft functions as a placeholder and to collect comments on data organization practices. If good data organization practiced are missing, or you have comments about the practices described in this document, please contact k.leuveld@vu.nl
+**Note on this first draft**: This first draft functions firstly as a placeholder while more detailed guidelines are developen, and secondly to collect comments on data organization practices. As such, this version of these guidelines should not considered advice. If good data organization practices are missing, or you have comments about the practices described in this document, please contact k.leuveld@vu.nl
 
 # Introduction
 
