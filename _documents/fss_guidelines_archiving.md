@@ -4,6 +4,8 @@ subtitle: First Draft
 date: 22-09-2022
 ---
 
+**Note on this draft**: This first draft is based on the DSW guidelines for archiving quantitative data (2022). They have been updated with qualitative data in mind, but input about ways to make these guidelines work better for the diversity of data we have in the faculty is welcome. Please contact k.leuveld@vu.nl with any comments or suggestions you may have.
+
 The following materials should be archived, within one month after the publication date:
 
 - A copy of the publication that uses the data.

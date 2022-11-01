@@ -1,5 +1,5 @@
 ---
-title: VU FSSW guidelines for data organizations
+title: VU FSS guidelines for data organization
 subtitle: First Draft
 date: 28-10-2022
 ---

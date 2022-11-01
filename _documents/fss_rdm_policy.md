@@ -242,7 +242,6 @@ Policy comparions
 -->
 
 [fss-guidelines-archiving]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/fss_guidelines_archiving.md
-
 [fss-guidelines-organization]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/fss_guidelines_organization.md
 
 
