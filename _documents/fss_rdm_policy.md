@@ -1,7 +1,7 @@
 ---
-title: VU FSSW guidelines for data management
-subtitle: Third Draft
-date: 31-10-2022
+title: VU FSS guidelines for data management
+subtitle: Fourth Draft
+date: 24-11-2022
 ---
 
 <!---
@@ -10,17 +10,18 @@ compile with Pandoc
 File history can be found in the git repo: https://github.com/kleuveld/rdm_pages
 -->
 
-**Note on this draft version**: This is a draft version intended to collect feedback, which can be sent to k.leuveld@vu.nl. Currently all documents are hosted on [GitHub][rdm-pages], which may cause layout issues in some of the linked documents (e.g. the policy comparisons); once finalized, all documents will be hosted on the VU website removing these problems.
+**Things to keep in mind when reading this draft version**: 
+
+- For the most part, these guidelines are based on existing guidelines that already apply to our work, so the scope for substantive changes in these guidelines is limited. However, not everyhting is set in stone, for example: data should be verifiable, but how do we organize the verification? Department Heads are responsible for many RDM tasks, but how do we make sure they can do this in practice? Input is welcome on these and other procedures.
+- Currently all documents are hosted on [GitHub][rdm-pages], which may cause layout issues in some of the linked documents (e.g. the policy comparisons); once finalized, all documents will be hosted on the VU website removing these problems.
+- While these guidelines don't bring a lot of new things to the table, the expectation is that many colleagues will experience this as an additional burden. Part of this is because the old policies were poorly communicated with colleagues, who have little ownership in them. Advice on how to prevent that this time around is welcome. 
 
 # Introduction
 
 As a faculty committed to excellence in the quality of the research our staff and students undertake, it is essential to have guidelines on good practice in Research Data Management (RDM) as part of our framework to support the integrity of our research. These FSS guidelines serve both as a means of developing and supporting a culture of good practice in data management and demonstrating that we are committed to a culture and environment where high standards are encouraged and expected.
 
-The goal of these guidelines is not to add to the number of guidelines, regulation and codes of conduct with which researchers must comply. Rather, the purpose of these guidelines is to reduce work pressure by condensing these various, and often conflicting, regulations into one cohesive set of procedures that ensure maximum compliance. The list below contains the regulations that these guidelines are based on. Since there are often conflicts between the regulations, the list includes a comparison be between each item and these guidelines, so that any deviation from the regulation is made explicit.
+The purpose of these guidelines is to reduce work pressure by condensing the various, and often conflicting, regulations into one cohesive set of procedures that ensure maximum compliance. The list below contains the regulations that these guidelines are based on. Since there are often conflicts between the regulations, the list includes a comparison between each item and these guidelines, so that any deviation from the regulation is made explicit.
 
-<!---
-	Jaartallen toevoegen, ze veranderen niet vaak maar toch nog wel eens.
--->
 <!---
 	Seda had nog wat interessants gevonden
 -->
@@ -28,12 +29,6 @@ The goal of these guidelines is not to add to the number of guidelines, regulati
 	EB: eScience Center: FAIR principles for research software
 
 	https://www.esciencecenter.nl/news/fair-principles-for-research-software-released/
--->
-
-<!--
-	Via René, maar waar niet zoveel over RDM in staat: 
-		- Management Science and Business Administration: Academy of Management Code of Ethics,
-		  https://aom.org/about-aom/governance/ethics/code-of-ethics 
 -->
 
 - [General Data Protection Regulation (GDPR, 2018)][gdpr] (GDPR is too large to include a point-by-point comparison here.)
@@ -61,38 +56,63 @@ In this document, the following verbal forms are used:
 These guidelines apply to all faculty staff members who conduct research in the context of a temporary or permanent employment contract, all PhD candidates who conduct research under the supervision of a professor, and all research master’s students. The guidelines do not apply to bachelor’s and one-year master’s students, unless their research results in an academic publication. Research conducted by bachelor’s and one-year master’s students falls under the formal responsibility of their supervisors. 
 
 # Stepping stones for good data management
-
+<!--
+	SO: I think that Researchers need to read the different guidelines before they start, otherwise they cannot make a strong plan. So maybe they need to be referred to also on this section and not afterwards…
+-->
 ## Before
+<!-- 
+	Before the project starts? As preparation for the proposal, when it exists?
+-->
 
 - Researchers must follow the [ethics review procedure][rerc] of the Research Ethics Review Committee (RERC).
-- Researchers must write a Data Management plan (DMP), using a template of their funder or the template provided by the VU library[^templates]. The researcher makes sure that the DMP is stored in such a way that they can easily provide an up-to-date version to their department head at any moment.
+- Researchers must write a Data Management plan (DMP) using [https://dmponline.vu.nl](https://dmponline.vu.nl)), so that they can easily provide an up-to-date version to their department head at any moment.
+
+<!--
+	SO:
+	- I don’t think it helps the Researcher to know that this is provided by the Library, what matters is that they have to fill in DMP Online. Also, if everyone has to fill DMP online, then the rest of the sentence is not necessary… this is already archived in a central place? 
+	- I cannot see the template unless I open an account. Are these templates simple? I think the rule should be that for simple projects we should require a very simple DMP.
+	- Who approves the plan? Only the Researcher? Or the HoD also has to approve? Then maybe they should be all archived in a central directory?
+	- 
+-->
 - Researchers shall ensure that all planned activities with personal data comply with GDPR. In particular:
 	- They must take appropriate technical and organization measures to secure data. Because of the wide variety of data used in the faculty, there is not one answer as to what measures are appropriate. Researchers should discuss the measures they take with colleagues, department heads, with the faculty data steward, privacy champion and/or the [RDM support desk][rdmsupport].
+	<!-- SO: Data steward: connect to page -->
 	- They should ensure that all personal data is processed with full consent of all data subjects. If consent cannot be obtained, the researcher must ensure that there is another legal ground for processing the data. A privacy champion can assist with this.
 	- They shall ensure that if personal data is handled by third parties, the proper agreements are in place to do this securely, for example Data Processing Agreements. A privacy champion can assist with this.
 	- They shall ensure that all data processing activities (collection, analysis, publishing, archiving, etc.) are entered in the VU's central data processing registry. Currently, DMPs created using the VU template in [DMP Online][dmponline] are linked automatically to this registry, meaning the researcher does not need to take additional action for this.
-- Contracts and agreements relating to the commissioning, funding and conduct of research, including data sharing, intellectual property rights, collaboration and non-disclosure agreements must all be processed through IXA-GO to ensure the safeguarding of (the autonomy of) your research. Such contracts must be signed by those with the appropriate delegated authority to do so on behalf of the University. Usually this is the Managing Director of the faculty in consultation with the head of department.
+- Contracts and agreements relating to the commissioning, funding and conduct of research, including data sharing, intellectual property rights, collaboration and non-disclosure agreements must all be processed through IXA-GO to ensure the safeguarding of (the autonomy of) your research. Such contracts must be signed by those with the appropriate delegated authority to do so on behalf of the University. The signature process is a chain of responsibility that starts with the submission from the Researcher for approval of the Head of Department, before the final signature from the Managing Director of the faculty or a member of the Executive Committee of the University.
 
-<!--
+
+<!-- 
+	Jac: All? Perhaps above 25k? This is related to service agreements on the 4hoek agenda as well. And what is the procedure, do researcers directly contaxt IXA-GO or do we start at faculty level first (f.i. Koen)?
 	Marcel Ras: Hoe doe je dat? Formulier, contactpagina opnemen
+	SO: IXA-GO: Link to page with contacts/ procedures.
 -->
 
-[^templates]: Currently, all templates are available through [https://dmponline.vu.nl](https://dmponline.vu.nl)
 
 ## During
+
+<!--
+	SO: During the project?
+-->
+
 <!-- 
 	Add link to example readme
 -->
 
+
 - Researchers shall keep their DMP up to date.
 - Researchers should ensure that their data is stored in such a way that it can later be archived in accordance with section 3.3 of these guidelines without excessive effort. This includes:
 	- Ensuring data is well-organized (for more information, see the [FSS Guidelines on Data Organization][fss-guidelines-organization]);
+
+<!-- This should be linked also to the “Before” phase, so that Researchers can better prepare the DMP? -->
+
 	- Data is stored in the same place as vital documentation. Depending on the discipline of the researcher, this can include interviewer guides, questionnaires, topic lists, sampling information, power calculations, etc.
 	- Making sure the data is accompanied by a basic "Readme File" containing basic metadata such as an explanation of the purpose of the data, who is responsible for collecting it, and how the folder is organized, etc.
 - Researchers must ensure that data is reliably, traceably and securely stored throughout the research life cycle. The VU offers storage infrastructure that meets these requirements (see the [storage finder][storage-finder]). If project data needs to be stored elsewhere (for example with project partners), researchers must ensure that the storage solution chosen meets these requirements. The data steward will help in this assessment.
 - Researchers must take appropriate technical and organizational measures to secure any personal data.
 	- They can store directly identifiable data (see definitions, below) separately from other data, either by storing it on a different server or device, or through encryption.
-	- They must not store directly identifiable data longer than needed. Note that it may be impossible to remove directly identifying data without editing the raw data, which would compromise data integrity and provenance. In such cases, the directly identifiable data may be stored as long as long as the rest of the raw data. Researchers are expected to decide what data to destroy what data to keep, and shall provide reasoning for their choices in their DMP. 
+	- They must not store directly identifiable data longer than needed. Note that it may be impossible to remove directly identifying data without editing the raw data, which would compromise data integrity and provenance. In such cases, the directly identifiable data may be stored as long as long as the rest of the raw data. Researchers are expected to decide what data to destroy what data to keep. Researchers should discuss the choices they make with colleagues, department heads, with the faculty data steward, privacy champion and/or the [RDM support desk][rdmsupport], and record these choices in their DMP. 
 
 ## After
 
@@ -107,7 +127,7 @@ Researchers must ensure that the underlying data for each published empirical st
 Furthermore:
 
 - Researchers should include in their published empirical studies a data statement containing the repository where the data is archived, the persistent identifier of the data, and instructions on how this data can be accessed and for what reasons. For sensitive data that is not published and that can only be accessed for verification purposes, a persistent email address may be provided where questions regarding the data can be directed.
-- Researchers should ensure that all datasets that they produce are registered on the VU's Research Portal, including rich metadata describing the data, and the persistent identifier of the data set.
+- Researchers should ensure that all datasets that they produce are registered on the VU's Research Portal, including sufficiently descriptive metadata, and the persistent identifier of the data set.
 
 [^EUexceptions]: Valid grounds not to publish data include Intellectual Property Rights, personal data protection and confidentiality, security concerns, as well as global economic competitiveness, and other legitimate interests. These exceptions can be found [here][eucouncilopendata] (paragraph 14)
 
