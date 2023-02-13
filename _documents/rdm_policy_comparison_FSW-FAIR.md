@@ -92,8 +92,13 @@ license</p>
 <td><p>FSS requires all public data to include licenses , and all
 personal data to have information about the informed consent
 procedure.</p>
-<p>FSS requires researchers to upload the rawest data they can, and a
-description of all modification to this data.</p></td>
+<p>Data that is not made publically available, but only archived for
+verification purposes, should only be made available under strict data
+transfer agreement that limit the use of data to the verification of the
+findings of the original researh.</p>
+<p>To ensure provenance, FSS requires researchers to upload the rawest
+data they can, and a description of all modification to this
+data.</p></td>
 </tr>
 </tbody>
 </table>

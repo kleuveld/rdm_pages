@@ -52,10 +52,10 @@ based on. In most definitions field notes would fall under the category
 “data”.</p>
 <p>However, for purposes of the FSS RDM guidelines, it is not necessary
 for data (and thus field notes) to be published or be interpreted by
-others. The data should be archived as a record of the steps the
-researcher took to arrive at the conclusions in publications. Such
-archives will only be accessed in case of doubts regarding academic
-integrity.</p></td>
+others. For verification purposes, the data should be archived as a
+record of the steps the researcher took to arrive at the conclusions in
+publications. Such archived data will only be accessed in case of doubts
+regarding academic integrity.</p></td>
 </tr>
 <tr class="even">
 <td>Anonymity and informed consent: Our default position is that we do
