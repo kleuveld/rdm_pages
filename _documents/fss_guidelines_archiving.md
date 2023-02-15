@@ -15,7 +15,7 @@ Researchers at the Faculty of Social Sciences are expected to archive "all data 
 - A description of the steps taken to process the analyzed data into results in the manuscript. This could be computer code or a description of the steps taken in the qualitative analysis of primary research data.
 - Any documentation that can reasonably be deemed necessary in order for other researchers to understand the data and/or verify the research's findings. The precise documentation depends on the methods used, but examples include: study design documents, interview guides, questionnaires, surveys, and topic lists. The materials must be available in the
 language in which the research was conducted.
-- A readme file (metadata) describing which documents and files can be found where and how they should be interpreted. The readme file must be sufficiently clear, so that a relevant fellow researcher can verify the results discussed in the publication. The readme file must also contain the following information:  
+- A readme file (metadata) describing which documents and files can be found where and how they should be interpreted. The readme file must be sufficiently clear, so that a relevant fellow researcher can verify the results discussed in the publication. The readme file must also contain the following information:
 	- Name of the person who stored the documents or files 
 	- Division of roles among authors, indicating at least who analysed the data 
 	- Date on which the manuscript was accepted, including reference 

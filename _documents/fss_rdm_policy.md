@@ -75,7 +75,7 @@ These guidelines apply to all faculty staff members who conduct research in the 
 	- 
 -->
 - Researchers shall ensure that all planned activities with personal data comply with GDPR. In particular:
-	- They must take appropriate technical and organization measures to secure data. Because of the wide variety of data used in the faculty, there is not one answer as to what measures are appropriate. Researchers should discuss the measures they take with colleagues, department heads, with the faculty data steward, privacy champion and/or the [RDM support desk][rdmsupport].
+	- They must plan to take appropriate technical and organization measures to secure data. Because of the wide variety of data used in the faculty, there is not one answer as to what measures are appropriate. Researchers should discuss the measures they take with colleagues, department heads, with the faculty data steward, privacy champion and/or the [RDM support desk][rdmsupport].
 	<!-- SO: Data steward: connect to page -->
 	- They should ensure that all personal data is processed with full consent of all data subjects. If consent cannot be obtained, the researcher must ensure that there is another legal ground for processing the data. A privacy champion can assist with this.
 	- They shall ensure that if personal data is handled by third parties, the proper agreements are in place to do this securely, for example Data Processing Agreements. A privacy champion can assist with this.

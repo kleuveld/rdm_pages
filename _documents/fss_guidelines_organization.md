@@ -8,19 +8,21 @@ date: 22-11-2022
 
 # Introduction
 
-Researchers of the Faculty of Social Sciences (FSS) are responsible for organizing their data in such a way that they can be archived without excessive effort. In general terms, the aim is to ensure that a fellow researcher can use the data without asking too many questions. This ensures that the results of the research can be verified if the need arises. Furthermore, should additional researchers be added to a project - or a researcher gets back from a long hiatus - they can get started quickly. These guidelines are not prescriptive; they are meant to inspire researchers on how to manage their data when starting a new project, since changing folder structures once a project has stared can be very difficult. 
+Researchers of the Faculty of Social Sciences (FSS) are responsible for organizing their data in such a way that they can be archived without excessive effort. In general terms, the aim is to ensure that a fellow researcher can use the data without asking too many questions. This ensures that the results of the research can be verified if the need arises. Furthermore, should additional researchers be added to a project - or a researcher gets back from a long hiatus - they can get started quickly. These guidelines are not prescriptive; they are meant to inspire researchers on how to manage their data when starting a new project, since changing folder structures once a project has stared can be very difficult.
 
-These guidelines are structured as follows: advice for organizing quantitative data and qualitative data are given in separate sections. The sections give an outline of a folder organization that is used during the research.
+A further complication is that directly identifying personal data should be stored separately from other data. This can be done by using separate storage solutions (each of which has to comply with all regulations); by using encryption; or -- at a minimum -- that the most common type of data breach (loss of a device) does not lead to loss of directly identifying data, by not having such data on personal devices once this is no longer needed.
+
+These guidelines are structured as follows: advice for organizing quantitative data and qualitative data are given in separate sections. The sections give an outline of a folder organization that is used during the research. These outlines serve as examples, researchers are free to use any organization that fits the needs of their research.
 
 
 ## Quantitative
 
-### Simple project using Git, Research Drive and Yoda
+### Simple quantitative research project using Git, Research Drive and Yoda
 
-The below folder structure is for a simple project based on survey data. The main tool for collaboratively working on outputs such as papers and analysis scripts is GitHub. However, since the input data is survey data, which is almost always personal data, it cannot be stored on GitHub, so for this Research Drive is used. Documentation is in the form of pdf files, and would thus not benefit from GitHub, and is stored on Research Drive.
+The below folder structure is for a simple project based on survey data. In this project, the main tool for collaboratively working on outputs such as papers and analysis scripts is GitHub. However, since the input data is survey data, which is almost always personal data, it cannot be stored on GitHub, so for this Research Drive is used. Documentation is in the form of pdf files, and would thus not benefit from GitHub, and is stored on Research Drive.
 
 - **Research Drive**
-	- Raw data
+	- Raw data (encrypted, password stored in password manager; not synced)
 	- Pseudonymized data
 	- Analyzed data
 	- Documentation
@@ -55,8 +57,9 @@ Once a paper is published, the researchers archives the raw data on Yoda, and cr
 The following is a basic qualitative project. All data is stored on Yoda. Once data collection is complete, the data folder is added to Yoda vault, a DOI of which is included in every paper.
 
 - Yoda
+	- Vault (Read only, not synced)
+		- Interview recordings
 	- Data 
-		-Interview recordings
 		- Pseudonymized interview transcripts
 	- Documentation
 		- Sampling information
