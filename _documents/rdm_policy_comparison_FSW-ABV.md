@@ -22,16 +22,32 @@ personal and sensitive material with us. We are responsible for keeping
 such personal and potentially sensitive materials protected and
 confidential. Providing open access to fieldwork materials is therefore
 limited; in the case of an integrity inquiry we can at most provide
-confidential access. Anonymizing ethnographic research materials is
-often not a workable solution, as it is not only</p>
-<p>overly time-consuming but above all removes so much detail, that the
-material becomes virtually meaningless</p></th>
-<th>FSS fully endorses this: protection of respondents’ privacy is a
-valid reason not to grant open access to data.</th>
+confidential access.</p></th>
+<th><p>The definition of data as used by the ABV is slightly different
+than that used by most of the policies that the FSS RDM guidelines are
+based on. Therefore, for the purposes of the FSS RDM Guidelines,
+anthropological research materials <em>are</em> considered data.</p>
+<p>However, the FSS RDM policy fully supports researchers stiving to
+keep personal and potentially sensitive materials protected and
+confidential: protection of respondents’ privacy is a valid reason not
+to grant open access to data.</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>Anonymizing ethnographic research materials is often not a
+workable solution, as it is not only</p>
+<p>overly time-consuming but above all removes so much detail, that the
+material becomes virtually meaningless</p></td>
+<td>The FSS RDM Guidelines are written with the realization that
+anonymization (or more often pseudonymization) comes at a real cost (in
+terms of time, effort, and data quality), and that only the researcher
+can determine whether the costs of anonymization/ pseudonymization
+outweigh the benefits. It therefore lists pseudonymization as something
+researchers <em>can</em> do to further secure their data, not as
+something they <em>must</em> do.</td>
+</tr>
+<tr class="even">
 <td><p>Anthropological knowledge production: Anonymity as default option
 and non-disclosure of fieldwork data are a precondition for
 anthropological knowledge production before they are turned into ethical
@@ -46,18 +62,16 @@ personal knowledge</p>
 <p>This character of anthropology as a science dealing with research
 materials that can often not be reduced to ‘data’ has serious ethical
 consequences, especially regarding the following.</p></td>
-<td><p>The definition of data as used by the ABV is slightly different
-than that used by most of the policies that the FSS RDM guidelines are
-based on. In most definitions field notes would fall under the category
-“data”.</p>
-<p>However, for purposes of the FSS RDM guidelines, it is not necessary
-for data (and thus field notes) to be published or be interpreted by
-others. For verification purposes, the data should be archived as a
-record of the steps the researcher took to arrive at the conclusions in
+<td><p>This relates to the points above: for the FSS RDM Guidelines,
+field notes would fall under the category “data”, but the practical
+implications are limited: it is not necessary for data (and thus field
+notes) to be published or be interpreted by others.</p>
+<p>For verification purposes, the data should be archived as a record of
+the steps the researcher took to arrive at the conclusions in
 publications. Such archived data will only be accessed in case of doubts
 regarding academic integrity.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Anonymity and informed consent: Our default position is that we do
 not engage in covert<br />
 research and that we safeguard our interlocutors’ anonymity in our
@@ -75,11 +89,13 @@ possession of knowledge.</td>
 <td><p>This may be problematic with respect to GDPR: there must be
 demonstrable consent. This does not need to be in the form of an
 informed consent sheet, or even written in some other way, but there
-must be a way that it can be demonstrated a participant consented.</p>
+must be a way that it can be demonstrated a participant consented, and
+what they consented to. This is needed to be properly able to resolve
+complaints.</p>
 <p>In practice, researchers can contact the Privacy Champion to find
 what works.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Doing no harm:</strong> The epistemological need for
 trust in research relationships generally implies</p>
 <p>that anthropological ethics starts, in the vast majority of cases,
@@ -91,7 +107,7 @@ particular responsibility towards those in a position of precarity and
 vulnerability.</p></td>
 <td>This goes beyond the scope of the FSS RDM policy.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Bias and ‘conflicts of interest’</strong>: We recognize
 that we all speak from a particular position and</p>
 <p>value reflexivity highly as a means to deal with bias. We fully
@@ -103,7 +119,7 @@ about personal backgrounds, perspectives and positions can only be
 judged by the researcher and not be imposed by others.</p></td>
 <td>This goes beyond the scope of the FSS RDM guidelines.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Legal protection</strong>: We do not enjoy a legal right
 to keeping sources confidential such as medical</p>
 <p>or legal practitioners or journalists. The European GRDP, however,
@@ -116,7 +132,7 @@ our research may be severely hindered and our interlocutors be put at
 risk, when we are not able to claim protection from forced disclosure in
 court.</p></td>
 <td><p>This really concerns a legal matter that is above the level of
-the Faculty, and so can’t really be incorporated in the RDM
+the Faculty, and so can’t really be incorporated in the FSS RDM
 guidelines.</p>
 <p>FSS should note that this risk is even larger for data stored in the
 US, so researchers should take care when transferring data

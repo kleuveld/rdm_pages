@@ -197,10 +197,10 @@ transparency of qualitative and quantitative empirical research, all
 information that is needed to be able to assess the results must be
 archived (in English). This information is stored in a ‘publication
 package’.</strong></p></td>
-<td>The FSS RDM guidelines don’t mention the term “publication package”.
-The term may lead to confusion: first, a researcher may think that the
-package itself must be published. Second, they may think that all
-elements need to be archived together. However, neither is the case:
+<td>The FSS RDM guidelines do not mention the term “publication
+package”. The term may lead to confusion: first, a researcher may think
+that the package itself must be published. Second, they may think that
+all elements need to be archived together. However, neither is the case:
 data may be archived in a restricted-access repository, and it is
 acceptable to have some items in a public repository, while others are
 in a restricted archive, as long as the various components link to each
@@ -514,9 +514,8 @@ publication, academic peers should be granted access to the publication
 package if they make a reasonable request to verify or examine the
 published research results in the context of academic
 debate.</strong></p></td>
-<td>The verification process is yet to be fully determined. For now the
-assumption is that data is archived on VU servers, in which case access
-can always be organized in consultation with IT.</td>
+<td>The archiving infrastructure offered by the VU (the Yoda Vault)
+follows this.</td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -624,8 +623,14 @@ link pseudonymized raw data to the personal data, this key must be
 stored on the second faculty server. This includes raw data that cannot
 be de-identified and must be stored, such as audio- and video data in
 its original format that cannot be transcribed.</strong></td>
-<td>The FSS guidelines don’t include this as a hard requirement, since
-few researchers have access to a second server.</td>
+<td><p>The FSS guidelines don’t include this as a hard requirement,
+since few researchers have access to a second server.</p>
+<p>Currently, suggested alternatives to this are:</p>
+<ul>
+<li><p>Encrypting directly identifying data.</p></li>
+<li><p>Making sure that directly identifying data is not synced to local
+devices.</p></li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><strong>External storage of raw data, for example in national or

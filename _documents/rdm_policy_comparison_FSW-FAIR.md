@@ -95,7 +95,7 @@ procedure.</p>
 <p>Data that is not made publically available, but only archived for
 verification purposes, should only be made available under strict data
 transfer agreement that limit the use of data to the verification of the
-findings of the original researh.</p>
+findings of the original research.</p>
 <p>To ensure provenance, FSS requires researchers to upload the rawest
 data they can, and a description of all modification to this
 data.</p></td>

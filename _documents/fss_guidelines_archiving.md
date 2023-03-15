@@ -1,12 +1,12 @@
 ---
 title: VU FSS guidelines for archiving data
-subtitle: Second Draft
-date: 24-11-2022
+subtitle: Third Draft
+date: 15-03-2023
 ---
 
 **Note on this draft**: *This first draft is based on the Guideline for the archiving of academic research for faculties of behavioural and social sciences in the Netherlands (2022). They have been updated with qualitative data in mind, but input about ways to make these guidelines work better for the diversity of data we have in the faculty is welcome. Please contact k.leuveld@vu.nl with any comments or suggestions you may have.*
 
-Researchers at the Faculty of Social Sciences are expected to archive "all data than can be reasonably deemed necessary to verify the findings of the research". These guidelines serve as practical advice on what to archive. The following materials should be archived, within one month after the publication date:
+Researchers at the Faculty of Social Sciences are expected to archive "all data that can be reasonably deemed necessary to verify the findings of the research". These guidelines serve as practical advice on what to archive. The following materials should be archived, within one month after the publication date:
 
 - A copy of the publication that uses the data.
 - Raw data: unedited data files providing the most direct registration of the behaviour or reactions of test subjects/respondents. If the raw data files have been accessibly stored in an external archive (such as storage facilities at DANS), or if the data cannot be archived on university servers (for example due to IP restrictions) making reference to the location of the files will suffice. The VU researcher must ensure that such externally stored raw data will be available for verification purposes. Raw data may not be changed once they have been made digitally available.
@@ -25,3 +25,4 @@ language in which the research was conducted.
 	- Whether the data is made open or not and if not, a valid reason for not opening up the data
 - Documents received from the Research Ethics Review Committee: at least the result of the self-check, and if applicable result from a full review.
 - If using personal data: information about the informed consent procedure, such as a privacy statement, or a blank informed consent form.
+
