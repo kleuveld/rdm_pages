@@ -99,7 +99,7 @@ The Wet Openbaarheid van Bestuur (WOB) only applies to public entities, so not t
 I’m afraid that other researchers will misuse my data. How can I prevent that from happening?
 It depends on what you mean by “misuse”. If this concerns using your data commercially, you can add a license to your data that specifies non-commercial use only. The same goes for data that may not be remixed. If, however, the misuse can occur simply by the nature of your data, then we recommend that you speak to a data steward and/or a representative of the ethical review committee to discuss your doubts and your options.
 
-# Data Management Plans (DMPs) and FAIR Data
+# Data Management Plans (DMPs) metadata and FAIR Data
 
 ## How can I start writing a Data Management Plan?
 You can log into [DMPOnline][dmponline] with your VU credentials to start writing a DMP. It has templates of most funders which are kept up to date by the university library. If you need any help (for example with the technical terms used in many DMP templates), feel free to contact the faculty data steward.
@@ -112,16 +112,32 @@ There are some situations in which writing a DMP is mandatory. For example, if y
 
 Now, for research that is already underway, writing a DMP is a good practice, but not doing so is not necessarily bad. Writing a DMP, though, is a good way to keep you accountable and not let things come down to chance and luck. And it helps you to avoid last-minute panic. Although you are already under way with the research, it can still be a good idea to write a DMP. You can get in touch with your data steward or the RDM Support Desk if you still want to do it.
 
+
+## What is metadata?
+
+Metadata is data about your data. It is simply information such as authors, colloborators, dates, description, key words. It is not the data itself. So even if your data itself is very sensitive, the metadata may be freely published (though in some cases metadata can be sensitive as well).
+
+## What metadata and documentation should I include with my data?
+
+If you use Yoda, you can simply fill out the metadata form included in the portal. Otherwise, you can use **this file** to write a "readme file" that contains the same information.
+
+As for documentation: this is very much dependent on your data. A useful excercise is to imagine yourself having to take a break from research for a few years. What information would you need to get back into understanding your data again? This can include questionnaires, codebooks, field manuals, topic lists, proposals, ethics applications, data management plans etc.
+
+## What metadata standard should I use?
+
+The one that is used by the service where your data will be archived, published, or registered. PURE used a standard called CERIF; Yoda uses DataCite. The forms on those services will ensure that everyhting is stored according to these standards, so this is not something you need to worry about.
+
+
 ## What does FAIR data stand for?
 FAIR stands for Findable, Accessbile, Inter-operable, and Re-usable. Many of these sub-elements of FAIR cover a wide spectrum of possibilities: some data can be made more easily accessible than others, for example. Below are some tips on how to ensure that your data is acceptably FAIR. 
 
-- Findable: your data needs a persistent identifier, and be registered on a public page somewhere. At the very least, your dataset should be registered on the VU Research Portal (PURE). Here you should also include a DOI link to the data set if your data is publically available. 
-- Accessible: make sure that people can access the data in case its needed even if you have changed jobs data and the email address printed on articles you published no longer works. You do this by archiving the data in a repository when you publish findings. This doesn’t need to be a public repository, but your data needs to be at least available for verification purposes, in case there’s doubts about scientific integrity. DarkStor or a Yoda vault both work for this, without publishing data. Public repositories may offer restricted access, where you control who accesses the data, or public access.
+- Findable: your data needs a persistent identifier, and be registered on a public page somewhere. At the very least, your dataset should be registered on the VU Research Portal (PURE). Here you should also include a DOI link to the data set if your data is publically available. Data arhived on Yoda gets a DOI as soon as you publish the metadata. (The data itself can remain private.) 
+- Accessible: make sure that people can access the data in case its needed. You do this by archiving the data in a repository when you publish findings. This doesn’t need to be a public repository, but your data needs to be at least available for verification purposes, in case there’s doubts about scientific integrity. A Yoda vault is perfect for this. Public repositories may offer restricted access, where you control who accesses the data, or public access.
 - Inter-operable: make sure that if someone has access to your data, they can make use of it (potentially even combine it with other data, if you choose to give people that option). Make sure to use standard file extensions and make sure the data is accompanied by enough information that a well-informed colleague can start using the data without to many difficulties. At a minimum, you should include a Readme file, and any tools used to generate the data (topic lists, questionnaires, interviewer guides, manuals, cleaning scripts etc.). 
-- Re-usable: make sure that if people have access to your data, they know what they are allowed to do with it. This means that the terms of use of all outputs are clear, for example by using licenses (as open as possible is best, for example the CC0 license), and that information about the informed consent procedure is included, so other researchers know what your respondent consented to. For using data from DarkStor, a strict data sharing agreement is needed, limiting the use to verification of the research findings.
+- Re-usable: make sure that if people have access to your data, they know what they are allowed to do with it. This means that the terms of use of all outputs are clear, for example by using licenses (as open as possible is best, for example the CC-BY license), and that information about the informed consent procedure is included, so other researchers know what your respondent consented to. For using restricted (i.e. non-public) data from Yoda, a strict data sharing agreement can be drafted, limiting the use to verification of the research findings.
 
 ## My funder wants me to make my data FAIR, but I can’t share the data because of privacy concerns
-This is not a problem. Data needs to be Accessible. This means that there is a well-defined procedure for accessing the data, for example in cases where there are doubt about scientific integrity. Storing your data securely on DarkStor is sufficient for this.
+This is not a problem. Data needs to be Accessible. This means that there is a well-defined procedure for accessing the data, for example in cases where there are doubt about scientific integrity. Archiving your data securely on Yoda is sufficient for this.
 
 
 <!--LINKS-->
