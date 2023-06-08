@@ -1,0 +1,18 @@
+bookdown::gitbook:
+  number_sections: false
+  fig_caption: false
+  config:
+    edit:
+      link: "https://github.com/kleuveld/rdm-pages/edit/main/%s"
+      text: "Suggest edits"
+    toc:
+      toc_depth: 4
+      toc_float: true
+      collapse: section
+      scroll_highlight: true
+    download: ["pdf", "epub"]
+    sharing:
+      github: yes
+      facebook: no
+      twitter: no
+      all: no
