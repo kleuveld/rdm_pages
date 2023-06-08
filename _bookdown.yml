@@ -1,0 +1,8 @@
+book_filename: "RDM Pages"
+output_dir: "outputs"
+delete_merged_file: true
+rmd_subdir: "pages"
+language:
+  ui:
+    chapter_name: ""
+

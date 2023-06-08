@@ -1,0 +1,39 @@
+---
+title: VU FSW Privacy Intake
+---
+
+# Details
+
+--------------------	-----------------------------------------------
+1. Privacy Champion:                                                  
+2. Researcher:                                                         
+3. Department: 
+4. Date:
+--------------------	-----------------------------------------------
+
+# Background
+
++---------------------------------------------------+---+
+| 1. Project description:                           |   |
++---------------------------------------------------+---+
+| 2. Will personal data be collected?               |   |
++---------------------------------------------------+---+
+| 3. Who will you process personal data from?       |   |
++---------------------------------------------------+---+
+| 4. What personal data will be processed?          |   |
++---------------------------------------------------+---+
+| 5. Will special personal data be collected?       |   |
++---------------------------------------------------+---+
+| 6. Will otherwise sensitive data be collected?    |   |
++---------------------------------------------------+---+
+| 7. How will this data be processed?               |   |
++---------------------------------------------------+---+
+| 8. Who will do the processing? Where?             |   |
+|                                                   |   |
+| (include all sub-processors!)                     |   |
++---------------------------------------------------+---+
+| 9. What is the legal ground?                      |   |
++---------------------------------------------------+---+
+| 10. What security measures do you intend to take? |   |
++---------------------------------------------------+---+
+
