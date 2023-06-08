@@ -1,9 +1,0 @@
-rdm-pages
-rdm-faq
-general
-data-storage-and-security
-personal-data
-i-know-its-difficult-but-i-would-still-like-to-anonymize-my-data-how-do-i-do-this
-sharing-data-and-notes
-data-management-plans-dmps-metadata-and-fair-data
-i-never-created-a-data-management-plan.-is-that-bad
