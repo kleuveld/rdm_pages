@@ -1,0 +1,51 @@
+---
+title: "Research Data Management at FSW" 
+subtitle: "Presented at B&P"
+author: Koen Leuveld
+date: June 19, 2023
+output: 
+ beamer_presentation
+---
+
+
+# Contents
+
+- Intro
+- Summary of new RDM policy
+- Call for help
+
+# Why is Research Data Management important
+
+- **Research Integrity:** allow verification of results
+- **Ethics:** respect respondents' rights
+- **Utility:** backups and organization
+- **Impact:** data as research output
+
+# New RDM Policy this year
+
+- Consolidates various existing policies into a coherent set of guidelines
+  - GDPR
+  - National Code of Conduct Research Integrity
+  - Guidelines for Data Archiving DSW
+  - VU RDM Policy
+  - Discipline-specific guidelines
+
+# RDM Policy summary
+
+- **Before:** Ethics, Privacy and a Data Management Plan (https://vu.nl/en/employee/social-sciences-getting-started/data-management-fss)
+- **During:** data well organized and reliably, traceably and securely stored
+- **After:** Data archived for 10 years
+
+# Tool Overview
+
+\includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{figures/rdm_tools.png}
+
+- RDS Portal: https://vu.nl/en/employee/research-data-support
+
+
+# Call for input
+
+- Round tables
+  - making procedures more efficient
+  - what are good data management practives (by research tradition)
+- Let me know if you're interested in thinking along: k.leuveld@vu.nl
