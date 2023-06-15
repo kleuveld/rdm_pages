@@ -1,8 +1,4 @@
----
-title: VU FSS guidelines for archiving data
-subtitle: Third Draft
-date: 15-03-2023
----
+# VU FSS guidelines for archiving data
 
 **Note on this draft**: *This first draft is based on the Guideline for the archiving of academic research for faculties of behavioural and social sciences in the Netherlands (2022). They have been updated with qualitative data in mind, but input about ways to make these guidelines work better for the diversity of data we have in the faculty is welcome. Please contact k.leuveld@vu.nl with any comments or suggestions you may have.*
 
