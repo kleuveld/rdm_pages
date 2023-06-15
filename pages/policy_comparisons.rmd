@@ -1,0 +1,41 @@
+# Policy Comparisons
+
+```{r, include=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(stringr)
+
+comparisons <-
+   read_csv("assets/policy_comparisons.csv")
+
+
+meta <-
+   read_csv("assets/policy_comparisons_meta.csv")
+
+render_table <- function(org,colnames){
+   comparisons %>%
+   filter(id == org) %>%
+   select(code,fsw) %>%
+   kable(col.names = colnames,striped = T,escape = F) %>%
+   print()
+}
+
+```
+
+
+
+This page contains comparisons between the FSS RDM Guidelines and the various regulations and codes of conducts that it's based on. The left column of each table contains the text from the regulations that relate to data management. The right column motivates whether or not the text is adopted in the FSS Guidelines.
+
+
+```{r, echo=F, message = FALSE, results="asis"}
+
+for (i in 1:length(meta)){
+   cat(paste("<h2>",meta$code_name[i]),"</h2>")
+   cat(paste("<b>Date:</b>",meta$code_date[i],"<br>"))
+   cat(paste("<b>Last reviewed:</b>",meta$accessed_on[i],"<br>"))
+   cat(paste("<b>URL:</b>",meta$url[i],"<br>"))
+   render_table(org=meta$id[1],colnames = c(meta$short_name[i],"FSS"))
+
+}
+
+```
