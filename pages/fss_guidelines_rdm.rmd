@@ -259,22 +259,22 @@ Rules, regulations and guidelines
 Policy comparions
 -->
 
-[fss-vu]: policy_comparisons.html
-[fss-dsw]: policy_comparisons.html
-[fss-coc]: policy_comparisons.html
-[fss-fair]: policy_comparisons.html
-[fss-abv]: policy_comparisons.html
-[fss-nsv]: policy_comparisons.html
-[fss-nkwp]: policy_comparisons.html
-[fss-aom]: policy_comparisons.html
+[fss-vu]: policy-comparisons.html
+[fss-dsw]: policy-comparisons.html
+[fss-coc]: policy-comparisons.html
+[fss-fair]: policy-comparisons.html
+[fss-abv]: policy-comparisons.html
+[fss-nsv]: policy-comparisons.html
+[fss-nkwp]: policy-comparisons.html
+[fss-aom]: policy-comparisons.html
 
 
 <!-- 
 	Specific advice/guidelines
 -->
 
-[fss-guidelines-archiving]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/fss_guidelines_archiving.md
-[fss-guidelines-organization]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/fss_guidelines_organization.md
+[fss-guidelines-archiving]: vu-fss-guidelines-for-archiving-data.html
+[fss-guidelines-organization]: vu-fss-guidelines-for-data-organization.html
 
 
 <!-- 
