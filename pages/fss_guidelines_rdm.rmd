@@ -1,8 +1,4 @@
----
-title: VU FSS guidelines for data management
-subtitle: Fifth Draft
-date: 15-03-2023
----
+# VU FSS guidelines for data management
 
 <!---
 author: Koen Leuveld
@@ -17,7 +13,7 @@ File history can be found in the git repo: https://github.com/kleuveld/rdm_pages
 - While these guidelines don't bring a lot of new things to the table, the expectation is that many colleagues will experience this as an additional burden. Part of this is because the old policies were poorly communicated with colleagues, who have little ownership in them. Advice on how to prevent that this time around is welcome. 
 
 
-# Introduction
+## Introduction
 
 As a faculty committed to excellence in the quality of the research our staff and students undertake, it is essential to have guidelines on good practice in Research Data Management (RDM) as part of our framework to support the integrity of our research. These FSS guidelines serve both as a means of developing and supporting a culture of good practice in data management and demonstrating that we are committed to a culture and environment where high standards are encouraged and expected.
 
@@ -56,15 +52,15 @@ In this document, the following verbal forms are used:
 - "can" indicates a possibility or a capability
 
 
-# To whom do these guidelines apply?
+## To whom do these guidelines apply?
 
 These guidelines apply to all faculty staff members who conduct research in the context of a temporary or permanent employment contract, all PhD candidates who conduct research under the supervision of a professor, and all research master’s students. The guidelines do not apply to bachelor’s and one-year master’s students, unless their research results in an academic publication. Research conducted by bachelor’s and one-year master’s students falls under the formal responsibility of their supervisors. 
 
-# Stepping stones for good data management
+## Stepping stones for good data management
 <!--
 	SO: I think that Researchers need to read the different guidelines before they start, otherwise they cannot make a strong plan. So maybe they need to be referred to also on this section and not afterwards…
 -->
-## Before
+### Before
 <!-- 
 	Before the project starts? As preparation for the proposal, when it exists?
 -->
@@ -95,7 +91,7 @@ These guidelines apply to all faculty staff members who conduct research in the 
 -->
 
 
-## During
+### During
 
 <!--
 	SO: During the project?
@@ -119,9 +115,9 @@ These guidelines apply to all faculty staff members who conduct research in the 
 	- They can store directly identifiable data (see definitions, below) separately from other data, either by storing it on a different server or device, or through encryption.
 	- They must not store directly identifiable data longer than needed. Note that it may be impossible to remove directly identifying data without editing the raw data, which would compromise data integrity and provenance. In such cases, the directly identifiable data may be stored as long as long as the rest of the raw data. Researchers are expected to decide what data to destroy what data to keep. Researchers should discuss the choices they make with colleagues, department heads, with the faculty data steward, privacy champion and/or the [RDM support desk][rdmsupport], and record these choices in their DMP. 
 
-## After
+### After
 
-### Archiving and Registration
+#### Archiving and Registration
 Researchers must ensure that the underlying data for each published empirical study (article, volume, book chapter, PhD thesis chapter, Research Master’s thesis, consultable internal report, etc.) is archived according to the following:
 
 - **What**: all data that can be reasonably deemed necessary to verify the findings of the research. This includes the raw data (or a link to it, if secondary data was used), the data that was analysed and a description of all modifications to obtain the analysed data from the raw data (or the computer code used to perform these modifications) and full documentation of all steps involved in acquiring, processing and analysing the data. [Detailed guidelines on what to archive can be found here][fss-guidelines-archiving].
@@ -136,13 +132,13 @@ Furthermore:
 
 [^EUexceptions]: Valid grounds not to publish data include Intellectual Property Rights, personal data protection and confidentiality, security concerns, as well as global economic competitiveness, and other legitimate interests. These exceptions can be found [here][eucouncilopendata] (paragraph 14)
 
-### Data verification
+#### Data verification
 
 In case of doubts about the research integrity of FSS research, the faculty board can decide that verification of archived (non-public data) is needed. In making this decision, the board shall balance the need for confidentiality and security with the interests of transparency. If it is decided that the data needs to be reviewed, the Faculty Board will then decide who will access the data while ensuring confidentiality of the data and work with VU IT and the Data Steward to ensure that this access is possible.
 
-## Administrative procedures
+### Administrative procedures
 
-### End of employment
+#### End of employment
 
 If a researcher leaves the VU, the department head should work with the researcher to ensure:
 
@@ -151,12 +147,12 @@ If a researcher leaves the VU, the department head should work with the research
 - That responsibility for any data sets archived by the researcher on VU infrastructure is transferred to an FSS colleague; and,
 - That the researcher doesn't lose access to data they need for their further career, if such access can be reasonably organized; for example through the signing of a data transfer agreement between the VU and the researcher's new institution. 
 
-### Performance and appraisal reviews
+#### Performance and appraisal reviews
 
 Adherence to these RDM guidelines will be discussed in performance and appraisal interviews. Formal final responsibility lies with the dean. 
 
 
-# Abbreviations
+## Abbreviations
 <!---
 These tables may require pandoc
 -->
@@ -175,7 +171,7 @@ GDPR 			General Data Protection Regulation
 RERC 			Research Ethics Review Committee
 -------------	-----------------------------------------------
 
-# Definitions:
+## Definitions
 
 +----------------+------------------------------------------------------------------+
 |                |                                                                  |
@@ -263,14 +259,14 @@ Rules, regulations and guidelines
 Policy comparions
 -->
 
-[fss-vu]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-VU.md
-[fss-dsw]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-DSW.md
-[fss-coc]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-CoC.md
-[fss-fair]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-FAIR.md
-[fss-abv]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-ABV.md
-[fss-nsv]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-NSV.md
-[fss-nkwp]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-NKWP.md
-[fss-aom]: https://github.com/kleuveld/rdm_pages/blob/fss_rdm_policy/_documents/rdm_policy_comparison_FSW-AoM.md
+[fss-vu]: policy_comparisons.html
+[fss-dsw]: policy_comparisons.html
+[fss-coc]: policy_comparisons.html
+[fss-fair]: policy_comparisons.html
+[fss-abv]: policy_comparisons.html
+[fss-nsv]: policy_comparisons.html
+[fss-nkwp]: policy_comparisons.html
+[fss-aom]: policy_comparisons.html
 
 
 <!-- 
